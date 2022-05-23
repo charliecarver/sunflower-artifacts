@@ -1,5 +1,5 @@
 # Sunflower Artifacts
-Public artifacts for Sunflower project.
+This is a collection of public artifacts for our paper, "Sunflower: Locating Underwater Robots From the Air," appearing in MobiSys 2022. Each file is a simulation used to guide/verify our choices for our communication, sensing, and laser scanning designs. If there are any questions on using the simulations, please [reach out to me directly](http://charliecarver.me).
 
 ## Directory Listing
 - `/simulations/`
